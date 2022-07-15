@@ -9,22 +9,3 @@
 		<li>Реализована возможность перехода на конкретное место панорамной съемки при клике на карте;</li>
 	</ul>
 	
-<style type="text/css">
-h1{
-   color: black;
-   margin-bottom: 20px;
-   font-family:Times New Roman;
-   font-size:30px;
-}
-h2{
-   color: black;
-   margin-bottom: 40px;
-   font-family:Times New Roman;
-   font-size:20px
-}
-p{
-   font-size:20px;
-   color:black;
-   text-align:left;
-}
-</style>
